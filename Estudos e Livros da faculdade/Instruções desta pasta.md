@@ -1,0 +1,1 @@
+Está Pasta é para organizar o conteudo do meus estudos da faculdade.
