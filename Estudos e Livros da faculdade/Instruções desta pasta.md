@@ -1,1 +1,1 @@
-Está Pasta é para organizar o conteudo do meus estudos da faculdade.
+Está Pasta é para organizar o conteúdo do meus estudos da faculdade Analise e Desenvolvimento de Sistemas.
